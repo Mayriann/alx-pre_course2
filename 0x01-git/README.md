@@ -1,1 +1,1 @@
-my second readme
+my school readme
